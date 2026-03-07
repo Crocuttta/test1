@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, I am Olga");
 Console.WriteLine("Hello, I am Staa");
+Console.WriteLine("Hello, I am petya");
